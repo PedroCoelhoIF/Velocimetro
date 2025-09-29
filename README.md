@@ -1,9 +1,9 @@
 # Velocímetro GPS com HUD
 Este projeto é um aplicativo de velocímetro e hodômetro, desenvolvido em Flutter, que utiliza o GPS do dispositivo para fornecer dados de velocidade e distância em tempo real.
 
+![Demonstração APP Velocimetro](https://github.com/PedroCoelhoIF/Velocimetro/blob/main/assets/demo/demo-velocimetro.gif?raw=true)
 
-
-## Autores
+## Autores:
 
 * **[Marcos Eduardo Yashima Dipardi]** - [https://github.com/dipardi]
 * **[Pedro Rodrigues Coelho]** - [https://github.com/PedroCoelhoIF]
